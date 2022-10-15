@@ -1,9 +1,12 @@
-
+import MainPage from "./components/MainPage/MainPage";
+import { ChatProvider } from "./context/chat.context";
 function App() {
   return (
     <div className="App">
+      <ChatProvider>
+        <MainPage />
+      </ChatProvider>
 
-      <h1>hi</h1>
     </div>
   );
 }

@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name": "George C",
+        "image":"https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "post": "Developer",
+        "lastMsg": "Welcome to the DEV Team",
+        "lastReciveMsg" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,"
+
+    },
+    {
+        "id":2,
+        "name": "Maddy",
+        "image":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "post": "Developer",
+        "lastMsg": "hello , how are you?",
+        "lastReciveMsg" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna a2323liqua,"
+
+    },
+    {
+        "id":3,
+        "name": "John Q",
+        "image":"https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGUlMjBwaWN0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "post": "Developer",
+        "lastMsg": "I'm busy...",
+        "lastReciveMsg" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,"
+    },
+    {
+        "id":4,
+        "name": "Maria ",
+        "image":"https://images.unsplash.com/photo-1628890923662-2cb23c2e0cfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2ZpbGUlMjBwaWN0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "post": "QA",
+        "lastMsg": "Hi I'm Maria",
+        "lastReciveMsg" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,"
+
+    },
+
+    {
+        "id":5,
+        "name": "Ioana ",
+        "image":"https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHByb2ZpbGUlMjBwaWN0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "post": "Tech Lead",
+        "lastMsg": "AFK...",
+        "lastReciveMsg" : "er illum iracundia at, hinc docendi no est. Quodsi utamur sadipscing eu per, eos feugiat fierent et, at aliquam efficiantur eos. Eam suavitate prodesset percipitur cu, eu movet propriae accommodare mel, saepe blandit maluisset at sit. Vix quis mutat volutpat ex, prima putant ne,"
+
+    },
+
+    {
+        "id":6,
+        "name": "Jeff ",
+        "image":"https://images.unsplash.com/photo-1628890920690-9e29d0019b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "post": "CEO",
+        "lastMsg": "I'can't speak right now...",
+        "lastReciveMsg" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,"
+    }
+]
